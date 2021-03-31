@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1617194880 source:c:\users\fannan\desktop\preprocessors in c programming language\file inclusion\circle.c
+
+1617194893 source:c:\users\fannan\desktop\preprocessors in c programming language\file inclusion\main.c
+	<stdio.h>
+	<stdlib.h>
+	"circle.h"
+
+1617194883 c:\users\fannan\desktop\preprocessors in c programming language\file inclusion\circle.h
+
