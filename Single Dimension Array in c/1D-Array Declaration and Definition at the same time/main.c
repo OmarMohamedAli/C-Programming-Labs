@@ -20,7 +20,7 @@ int main()
 
 //-------------------------------------------------------------------
 
-  // Array Size not important to determine in this cases:
+  // Array Size is not important to determine in this cases:
      // 1. when Initialization is apart of Definition.
             char B[]={1,4,7};
      // 2. it is Formal Parameters (Function Call).
