@@ -38,5 +38,15 @@ int main()
     printf("A[%d] = %d  ",3,(A+1)[2]);
     printf("A[%d] = %d  \n",4,(A+1)[3]);
 
+    printf("\nThird Way using (A+1)[i]");
+    printf("\nElements in array are: \n");
+    for (int i=-1; i<4; i++)
+    {
+        printf("A[%d] = %d  ",i+1,(A+1)[i]);
+    }
+
+    printf("\n");
+    
+    
     return 0;
 }
