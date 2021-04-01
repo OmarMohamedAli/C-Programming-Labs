@@ -5,7 +5,7 @@ int main()
 {
     int Arr[3]={1,2,3};
     int ptr = NULL;
-    //Arr = ptr ;           // Error
+    //Arr = ptr ;          // Error
     //Arr++;               // Error
     //Arr*2;               // Error
 
